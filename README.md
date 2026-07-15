@@ -7,9 +7,10 @@ This repository contains my personal handwritten study notes while completing Ha
 - Lecture 0 – Securing Accounts
 - Lecture 1 – Securing Data
 - Lecture 2 – Securing Systems
+-  Lecture 3 – Securing Software
 
 ## 🚀 Upcoming Lectures
-- Lecture 3 – Securing Software
+
 - Lecture 4 – Preserving Privacy
 - Final Project
 
